@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 안녕하세요、キム・シウォンです！
 
-<!--
-**k-cool/k-cool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+React / Next.js / React Native を中心に、フロントエンドとモバイル開発を担当しています。  
+ユーザー体験を最優先に、シンプルでメンテナブルなコードを書くことを心がけています。
 
-Here are some ideas to get you started:
+## 🧰 主なスキル
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Frontend: React / Next.js / TypeScript / Tailwind CSS  
+- Mobile: React Native / Expo  
+- Backend: Node.js / Nest.js / Express  
+- Infra: AWS / Firebase / Vercel
+- DB: MySQL / MongoDB 
+- ORM: Prisma　/ TypeORM
