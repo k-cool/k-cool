@@ -80,8 +80,6 @@ React / Next.js / React Native を中心に、Web・モバイルアプリケー�
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-cool&layout=compact&theme=tokyonight)
-
 ![Trophy](https://github-profile-trophy.vercel.app/?username=k-cool&theme=onedark)
 
 ---
